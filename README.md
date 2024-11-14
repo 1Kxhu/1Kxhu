@@ -1,10 +1,6 @@
-👋
-'itzkxhu', 'kxhu' or 'kx'
-C# programs primarily, LOVE the idea of open-source
-I believe knowledge should be free and accessible
+👋 'itzkxhu', 'kxhu' or 'kx', C# programmer, ❤ open source
 
-📫
-You can reach me by discord: itzkxhu
+📫 You can reach me by discord: itzkxhu
 
 <!---
 1Kxhu/1Kxhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
