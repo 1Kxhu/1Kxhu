@@ -7,8 +7,7 @@ I'm a passionate C# fullstack developer, I learn on my own in free time.
 
 I love sharing what I learn, for free of course - I will never ask you for money.
 
-Most of my stuff will be under the Unlicense, do whatever you want with my code! Don't credit me, all this should've been free from the start. 
-
+Most of my stuff will be under the Unlicense, do whatever you want with my code and don't credit me!
 ## 📫 Contact?
 
 Don't hesitate to reach out, I respect everyone!
