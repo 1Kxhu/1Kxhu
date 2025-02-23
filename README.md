@@ -12,9 +12,9 @@ Most of my stuff will be under the Unlicense, do whatever you want with my code 
 
 Don't hesitate to reach out, I respect everyone!
 
-![Discord logo](https://github.com/user-attachments/assets/1eb8e84b-de53-406a-94fa-37f94dc82847) Let's talk on Discord: [@itzkxhu](https://discord.com/)
+![Discord logo](https://github.com/user-attachments/assets/1eb8e84b-de53-406a-94fa-37f94dc82847) Let's talk on Discord: [@sevenow](https://discord.com/)
 
-![YouTube logo](https://github.com/user-attachments/assets/dc8bc4f8-e613-4d04-922d-dce2def52e02) I have a YouTube channel: [@itzkxhu](https://www.youtube.com/@itzkxhu)
+![YouTube logo](https://github.com/user-attachments/assets/dc8bc4f8-e613-4d04-922d-dce2def52e02) I have a YouTube channel: [@sevenow](https://www.youtube.com/@sevenoww)
 
 
 <!---
