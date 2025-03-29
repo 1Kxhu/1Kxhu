@@ -12,7 +12,7 @@ Most of my stuff will be under the Unlicense, do whatever you want with my code 
 
 Don't hesitate to reach out, I respect everyone!
 
-![Discord logo](https://i.imgur.com/BvvyqHK.png) Let's talk on Discord: [@sevenow](https://discord.com/)
+![Discord logo](https://i.imgur.com/BvvyqHK.png) Let's talk on Discord: [@svn.ow](https://discord.com/)
 
 ![YouTube logo](https://i.imgur.com/OOAQDD5.png) I have a YouTube channel: [@sevenow](https://www.youtube.com/@sevenoww)
 
